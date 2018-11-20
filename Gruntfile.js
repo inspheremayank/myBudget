@@ -74,7 +74,8 @@ module.exports = function(grunt) {
                         'static/js/plugins/jquery.fancybox/source/jquery.fancybox.css',
                         'static/js/plugins/jquery.noty-2.3.8/demo/animate.css',
                         '../../static/sdk/js/media-player/mediaelementplayer.css',
-                        'static/css/index.min.css'
+                        'static/css/index.min.css',
+                        'static/css/budget-custom.css'
                     ],
                     'static/deploy/print.min.css': [
                         'static/css/bootstrap-print.css',

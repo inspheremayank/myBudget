@@ -1,0 +1,34 @@
+.header .header__heading, .header .header__navigation, .footer {
+  background: #0197c9 none repeat scroll 0 0;
+}
+.header__login__link, .header__heading-link#login, .header__navigation-link, .footer .header__navigation-link, .footer__additional-link, .footer__copyright {
+  color: #ffffff;
+}
+.footer__additional-link:hover {
+  color: #2d2d2d;
+}
+.header__search-text {
+  border-color: #ffffff;
+  color: #ffffff;
+}
+.dropdown-menu .header__navigation-item {
+  width: 100%;
+}
+.footer__navigation-list li.channel-1 a:hover, .header__navigation-list li.channel-1 a:hover {
+  color: #333;
+}
+.header__search-text::placeholder {
+  color: #ffffff;
+}
+.header__search-btn svg {
+  fill: #ffffff;
+}
+::-moz-selection { /* Code for Firefox */
+  color: #ffffff;
+  background: #187c9e;
+}
+
+::selection {
+  color: #ffffff;
+  background: #187c9e;
+}
